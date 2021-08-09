@@ -1,0 +1,6 @@
+C:\Users\ozcan\source\repos\ISOSharp\ISOSharp\obj\Debug\ISOSharp.Form1.resources
+C:\Users\ozcan\source\repos\ISOSharp\ISOSharp\obj\Debug\ISOSharp.GameBar.resources
+C:\Users\ozcan\source\repos\ISOSharp\ISOSharp\obj\Debug\ISOSharp.GameWindow.resources
+C:\Users\ozcan\source\repos\ISOSharp\ISOSharp\obj\Debug\PCSUIT.Properties.Resources.resources
+C:\Users\ozcan\source\repos\ISOSharp\ISOSharp\obj\Debug\PCSUIT.csproj.GenerateResource.cache
+C:\Users\ozcan\source\repos\ISOSharp\ISOSharp\obj\Debug\PCSUIT.csproj.CoreCompileInputs.cache
